@@ -1,7 +1,7 @@
 # DPGA
 
 This is the source code for DPGA feature selection algorithm. 
-To run this algorihtm followinf prerequisites are required to be installed:
+To run this algorihtm following prerequisites are required to be installed:
 1. Python 3
 2. PY_FS library : pip3 install Py-FS (https://github.com/Ritam-Guha/Py_FS)
 3. Numpy, scikit learn, matplotlib
